@@ -1,0 +1,16 @@
+
+.fondoVioleta{
+    background-color: blueviolet !important;
+}
+.fuenteBlanca{
+    color:white !important;
+    
+}
+.sacarDecorador{
+    text-decoration: none !important;
+}
+
+.aLaDerecha{
+    float: right !important;
+    margin-left: 70%;
+}
